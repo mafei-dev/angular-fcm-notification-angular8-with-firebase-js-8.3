@@ -1,5 +1,5 @@
-importScripts('https://www.gstatic.com/firebasejs/7.6.0/firebase-app.js');
-importScripts('https://www.gstatic.com/firebasejs/7.6.0/firebase-messaging.js');
+importScripts('https://www.gstatic.com/firebasejs/8.3.1/firebase-app.js');
+importScripts('https://www.gstatic.com/firebasejs/8.3.1/firebase-messaging.js');
 var firebaseConfig = {
   apiKey: "AIzaSyCdmzpRXmZd4zFyoVvrl2VyilZzzcO2FfI",
   authDomain: "seeker-4f3dd.firebaseapp.com",
